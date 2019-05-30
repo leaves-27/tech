@@ -16,3 +16,5 @@ git submodule update --remote --merge
 git submodule update --remote --rebase
 
 ### 在子模块上工作
+git push --recurse-submodules=on-demand: 先提交所有子模块再提交主项目模块
+git submodule foreach 'git checkout -b featureA': 对每个子模块执行引号中的git命令
