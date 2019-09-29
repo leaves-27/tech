@@ -9,3 +9,6 @@
   (4)npm access ls-packages:显示某个个体或团队能访问的所有包
   (5)npm access ls-collaborators: 显示所有访问权限是私有的包
   (6)npm access edit: 使用$ EDITOR为一个包设置私有的访问权限。？？????
+
+
+参考： https://blog.csdn.net/liu602182699/article/details/48186655  
