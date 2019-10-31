@@ -3,6 +3,5 @@
 	2.通过观察文件的变化，动态进行编译
 
 # webpack-hot-middleware: 动态的将内存中的编译结果同步到浏览器
-	1.
 	
 # webpack:	
