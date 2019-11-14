@@ -18,3 +18,7 @@
 # carbon:
 
 # memory-fs:
+
+# vue相关的
+## vue-clipboard2
+## vue-image-crop-upload 
