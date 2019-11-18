@@ -1,24 +1,36 @@
-# terminal:
+# webpack相关: 
+    见webpack目录
+    
+# vue相关:
+    见vue目录
+    
+# 终端相关:
 ## Inquirer
-	交互式命令行工具
+	一个用户与命令行交互的工具。
+	
 ## ora
 	一个漂亮的终端状态变化处理库.
+	
+## chalk:
+    使在命令行中文字具有除黑白之外的其他颜色(即在命令行中输出彩色文字)。
 
-# shell:
-## shelljs: 在node中调用shell命令操作文件的库
+# shell命令相关:
+## shelljs: 
+    在node中调用shell命令操作文件的库
 
 # 抽象语法树:
-## Recast: 对抽象预发树进行操作的js库
+## Recast: 
+    对抽象语法树进行操作的js库
+      
+# 进程
+## child_process
+    
+# 其他
+## carbon:
+    一个可以把你的代码转成一张精美海报的工具, 可以轻松将源代码创建成简洁美观的图像分享出去   
+    
+## memory-fs: 
+    一个简单的内存文件系统，即在硬盘中看不到文件。    
 
-# 瀑布流:
-	vue-waterfall-easy:
-
-# add-asset-html-webpack-plugin	
-
-# carbon:
-
-# memory-fs:
-
-# vue相关的
-## vue-clipboard2
-## vue-image-crop-upload 
+## semver(https://semver.org/lang/zh-CN/):
+    一个专门分析语义化版本的工具,即比较两个版本号的大小、验证某个版本号是否合法、分析版本号是否属于某个范围或符合一系列条件及提取版本号等。
