@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e0d820-e064-4589-a13c-f80f4dea9f1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/基础/编码/字符编码/GB2312.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/工具/tool-package/vue/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/工具/npm/package.json.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础/编码/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/基础/编码/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础/编码/文档编码/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/基础/编码/文档编码/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础/编码/文档编码/url编码.md" beforeDir="false" afterPath="$PROJECT_DIR$/基础/编码/文档编码/url编码.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/工具/tool-package/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/工具/tool-package/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/工具/tool-package/webpack/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/工具/tool-package/webpack/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,17 +17,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础/编码/README.md">
+        <entry file="file://$PROJECT_DIR$/工具/tool-package/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="19" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="19" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础/异常监控.md">
+        <entry file="file://$PROJECT_DIR$/工具/npm/package.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -43,53 +39,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/工具/tool-package/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/工具/tool-package/node内置库/path.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/工具/tool-package/vue/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="7" selection-start-column="7" selection-end-column="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/工具/tool-package/webpack/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="375">
-                <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础/ls.md">
+        <entry file="file://$PROJECT_DIR$/工具/npm/package.json.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -146,12 +96,13 @@
         <option value="$PROJECT_DIR$/工具/tool-package/webpack/index.md" />
         <option value="$PROJECT_DIR$/工具/tool-package/vue/index.md" />
         <option value="$PROJECT_DIR$/工具/tool-package/index.md" />
+        <option value="$PROJECT_DIR$/工具/npm/package.json.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="514" />
-    <option name="y" value="63" />
+    <option name="x" value="588" />
+    <option name="y" value="102" />
     <option name="width" value="1193" />
     <option name="height" value="789" />
   </component>
@@ -160,7 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,26 +127,13 @@
               <item name="tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="tech" type="462c0819:PsiDirectoryNode" />
               <item name="工具" type="462c0819:PsiDirectoryNode" />
-              <item name="tool-package" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tech" type="462c0819:PsiDirectoryNode" />
-              <item name="工具" type="462c0819:PsiDirectoryNode" />
-              <item name="tool-package" type="462c0819:PsiDirectoryNode" />
-              <item name="node内置库" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tech" type="462c0819:PsiDirectoryNode" />
-              <item name="工具" type="462c0819:PsiDirectoryNode" />
-              <item name="tool-package" type="462c0819:PsiDirectoryNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="npm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,15 +193,16 @@
       <workItem from="1572575599683" duration="451000" />
       <workItem from="1573006143773" duration="1330000" />
       <workItem from="1573795248631" duration="4136000" />
-      <workItem from="1574058561642" duration="3011000" />
+      <workItem from="1574058561642" duration="4045000" />
+      <workItem from="1574134649351" duration="1953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48537000" />
+    <option name="totallyTimeSpent" value="51524000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="514" y="63" width="1193" height="789" extended-state="0" />
+    <frame x="588" y="102" width="1193" height="789" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979044" />
@@ -290,8 +228,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/eslint/index.md" />
-    <entry file="file://$PROJECT_DIR$/杂类/区块链/以太坊/index.md" />
     <entry file="file://$PROJECT_DIR$/杂类/区块链/index.md" />
     <entry file="file://$PROJECT_DIR$/杂类/ex.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -590,9 +526,25 @@
     <entry file="file://$PROJECT_DIR$/工具/tool-package/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="19" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="19" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/npm/package.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/npm/package.json.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
