@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3e0d820-e064-4589-a13c-f80f4dea9f1c" name="Default Changelist" comment="" />
+    <list default="true" id="b3e0d820-e064-4589-a13c-f80f4dea9f1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/工具/webpack/构建速度优化/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/工具/webpack/构建速度优化/index.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,7 +15,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/工具/npm/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/工具/webpack/构建速度优化/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="226">
+                <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -61,14 +87,15 @@
         <option value="$PROJECT_DIR$/工具/tool-package/vue/index.md" />
         <option value="$PROJECT_DIR$/工具/tool-package/index.md" />
         <option value="$PROJECT_DIR$/工具/npm/package.json.md" />
+        <option value="$PROJECT_DIR$/工具/webpack/构建速度优化/index.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="582" />
-    <option name="y" value="193" />
+    <option name="x" value="226" />
+    <option name="y" value="377" />
     <option name="width" value="1193" />
-    <option name="height" value="789" />
+    <option name="height" value="624" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -91,7 +118,14 @@
               <item name="tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="tech" type="462c0819:PsiDirectoryNode" />
               <item name="工具" type="462c0819:PsiDirectoryNode" />
-              <item name="npm" type="462c0819:PsiDirectoryNode" />
+              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tech" type="462c0819:PsiDirectoryNode" />
+              <item name="工具" type="462c0819:PsiDirectoryNode" />
+              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="构建速度优化" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,14 +193,18 @@
       <workItem from="1573795248631" duration="4136000" />
       <workItem from="1574058561642" duration="4045000" />
       <workItem from="1574134649351" duration="2134000" />
+      <workItem from="1574145451114" duration="505000" />
+      <workItem from="1574244897130" duration="347000" />
+      <workItem from="1574301624462" duration="5048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51705000" />
+    <option name="totallyTimeSpent" value="57605000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="588" y="102" width="1193" height="789" extended-state="0" />
+    <frame x="226" y="377" width="1193" height="624" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -191,15 +229,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/杂类/区块链/index.md" />
-    <entry file="file://$PROJECT_DIR$/杂类/ex.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/杂类/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -509,6 +538,24 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
             <caret line="11" column="19" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/npm/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/webpack/构建速度优化/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="226">
+            <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
