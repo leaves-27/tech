@@ -1,3 +1,6 @@
-#!/bin/bash
+#!/bin/env bash
+START=$(date +%s)
+envtype=${1:dev}
 
-echo "Hello World !"
+echo $START
+echo $envtype

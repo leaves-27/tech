@@ -2,15 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e0d820-e064-4589-a13c-f80f4dea9f1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AST.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础/babel/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础/eslint/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/工具/vue-cli/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础/AST/a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础/AST/esprima.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础/AST/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础/AST/recast.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/工具/shell/shell编程/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/miniprogram/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/websocket/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/前端/framework/dvajs/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/前端/framework/umijs/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/前端/js/异步/async-await.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/前端/js/异步/generator-yield.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/前端/js/异步/promise.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/前端/redux-saga/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/微前端/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/微前端/qiankun.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/直播/aliyun.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂类/直播/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础/ls.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/工具/webpack/构建速度优化/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/工具/webpack/构建速度优化/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AST.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine-learn/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/machine-learn/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/工具/shell/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/工具/shell/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂类/前端/JS引擎的工作原理/解释阶段.md" beforeDir="false" afterPath="$PROJECT_DIR$/杂类/前端/JS引擎的工作原理/解释阶段.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂类/前端/js/Promise.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/杂类/前端/调试工具/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/杂类/前端/调试工具/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/杂类/目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/杂类/目录.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,12 +40,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/杂类/前端/调试工具/index.md">
+        <entry file="file://$PROJECT_DIR$/杂类/直播/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <first_editor relative-caret-position="666">
+                <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/杂类/直播/aliyun.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="195">
+                <caret line="13" selection-start-line="13" selection-end-line="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/杂类/websocket/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -48,24 +86,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/iterm2/index.md" />
-        <option value="$PROJECT_DIR$/shell/index.md" />
-        <option value="$PROJECT_DIR$/前端/tools/webpack/plugin.md" />
-        <option value="$PROJECT_DIR$/前端/tools/webpack/feture.md" />
-        <option value="$PROJECT_DIR$/前端/tools/webpack/index.md" />
-        <option value="$PROJECT_DIR$/前端/README.md" />
-        <option value="$PROJECT_DIR$/1.md" />
-        <option value="$PROJECT_DIR$/temp.md" />
-        <option value="$PROJECT_DIR$/software.md" />
-        <option value="$PROJECT_DIR$/goal/money.md" />
-        <option value="$PROJECT_DIR$/goal/life.md" />
-        <option value="$PROJECT_DIR$/goal/index.md" />
-        <option value="$PROJECT_DIR$/wx.md" />
         <option value="$PROJECT_DIR$/前端/tools/webpack/优化构建速度.md" />
         <option value="$PROJECT_DIR$/前端/tools/webpack/loader.md" />
         <option value="$PROJECT_DIR$/前端/JS引擎的工作原理/README.md" />
         <option value="$PROJECT_DIR$/index.md" />
-        <option value="$PROJECT_DIR$/machine-learn/index.md" />
         <option value="$PROJECT_DIR$/block-chain/index.md" />
         <option value="$PROJECT_DIR$/chrome/扩展.md" />
         <option value="$PROJECT_DIR$/visual/index.md" />
@@ -89,15 +113,38 @@
         <option value="$PROJECT_DIR$/基础/eslint/index.md" />
         <option value="$PROJECT_DIR$/AST.md" />
         <option value="$PROJECT_DIR$/杂类/目录.md" />
+        <option value="$PROJECT_DIR$/基础/AST.md" />
         <option value="$PROJECT_DIR$/杂类/前端/调试工具/index.md" />
+        <option value="$PROJECT_DIR$/基础/AST/AST.md" />
+        <option value="$PROJECT_DIR$/基础/AST/recast.md" />
+        <option value="$PROJECT_DIR$/基础/AST/esprima.md" />
+        <option value="$PROJECT_DIR$/杂类/前端/JS引擎的工作原理/解释阶段.md" />
+        <option value="$PROJECT_DIR$/machine-learn/index.md" />
+        <option value="$PROJECT_DIR$/基础/AST/a.json" />
+        <option value="$PROJECT_DIR$/基础/AST/index.md" />
+        <option value="$PROJECT_DIR$/杂类/前端/framework/dvajs/index.md" />
+        <option value="$PROJECT_DIR$/杂类/前端/redux-saga/index.md" />
+        <option value="$PROJECT_DIR$/杂类/前端/framework/umijs/index.md" />
+        <option value="$PROJECT_DIR$/工具/shell/shell编程/index.md" />
+        <option value="$PROJECT_DIR$/杂类/前端/framework/redux-saga/index.md" />
+        <option value="$PROJECT_DIR$/杂类/前端/framework/redux/redux中间件.md" />
+        <option value="$PROJECT_DIR$/杂类/前端/js/异步.md" />
+        <option value="$PROJECT_DIR$/杂类/前端/js/异步/promise.md" />
+        <option value="$PROJECT_DIR$/杂类/前端/js/异步/index.md" />
+        <option value="$PROJECT_DIR$/杂类/前端/js/异步/generator-yield.md" />
+        <option value="$PROJECT_DIR$/杂类/miniprogram/index.md" />
+        <option value="$PROJECT_DIR$/杂类/微前端/index.md" />
+        <option value="$PROJECT_DIR$/temp.md" />
+        <option value="$PROJECT_DIR$/杂类/直播/aliyun.md" />
+        <option value="$PROJECT_DIR$/杂类/直播/index.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="138" />
-    <option name="y" value="23" />
-    <option name="width" value="1193" />
-    <option name="height" value="876" />
+    <option name="x" value="258" />
+    <option name="y" value="92" />
+    <option name="width" value="1370" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -120,20 +167,13 @@
               <item name="tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="tech" type="462c0819:PsiDirectoryNode" />
               <item name="杂类" type="462c0819:PsiDirectoryNode" />
-              <item name="前端" type="462c0819:PsiDirectoryNode" />
+              <item name="websocket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="tech" type="462c0819:PsiDirectoryNode" />
               <item name="杂类" type="462c0819:PsiDirectoryNode" />
-              <item name="前端" type="462c0819:PsiDirectoryNode" />
-              <item name="调试工具" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tech" type="462c0819:PsiDirectoryNode" />
-              <item name="杂类" type="462c0819:PsiDirectoryNode" />
-              <item name="后端" type="462c0819:PsiDirectoryNode" />
+              <item name="直播" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,18 +254,41 @@
       <workItem from="1575270581541" duration="590000" />
       <workItem from="1575361657854" duration="726000" />
       <workItem from="1577177143353" duration="817000" />
-      <workItem from="1577243894119" duration="502000" />
+      <workItem from="1577243894119" duration="818000" />
+      <workItem from="1577269159958" duration="264000" />
+      <workItem from="1577325188129" duration="6201000" />
+      <workItem from="1577410886750" duration="491000" />
+      <workItem from="1577412493717" duration="5025000" />
+      <workItem from="1577498604021" duration="3549000" />
+      <workItem from="1577785740217" duration="1050000" />
+      <workItem from="1578019523697" duration="11000" />
+      <workItem from="1580695115165" duration="481000" />
+      <workItem from="1580704134070" duration="43000" />
+      <workItem from="1580710544572" duration="518000" />
+      <workItem from="1580971244911" duration="653000" />
+      <workItem from="1581213188085" duration="637000" />
+      <workItem from="1581248528883" duration="988000" />
+      <workItem from="1581904353672" duration="4282000" />
+      <workItem from="1582180623028" duration="638000" />
+      <workItem from="1582348445509" duration="251000" />
+      <workItem from="1582444200114" duration="2279000" />
+      <workItem from="1582515696031" duration="149000" />
+      <workItem from="1582628069469" duration="3425000" />
+      <workItem from="1582685479790" duration="993000" />
+      <workItem from="1582689042241" duration="1153000" />
+      <workItem from="1583229294032" duration="318000" />
+      <workItem from="1583391660937" duration="1705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71620000" />
+    <option name="totallyTimeSpent" value="107040000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="138" y="23" width="1193" height="876" extended-state="0" />
+    <frame x="258" y="92" width="1370" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979044" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19781022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -248,7 +311,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/工具/index.md">
+    <entry file="file://$PROJECT_DIR$/工具/webpack/构建速度优化/动态链接库.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -256,39 +319,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/前端/front.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/前端/babel.md">
+    <entry file="file://$PROJECT_DIR$/工具/webpack/构建速度优化/多进程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/webpack/other.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/iterm2/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/webpack/feture.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/webpack/plugin/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/webpack/plugin/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AST.md" />
+    <entry file="file://$PROJECT_DIR$/杂类/前端/调试工具/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/前端/index.md">
+    <entry file="file://$PROJECT_DIR$/基础/AST.md" />
+    <entry file="file://$PROJECT_DIR$/基础/AST/AST.md" />
+    <entry file="file://$PROJECT_DIR$/杂类/前端/JS引擎的工作原理/解释阶段.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/前端/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/前端/微服务.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -301,7 +398,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/前端/JS引擎的工作原理/执行阶段.md">
+    <entry file="file://$PROJECT_DIR$/block-chain/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -309,7 +406,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/前端/JS引擎的工作原理/解释阶段.md">
+    <entry file="file://$PROJECT_DIR$/block-chain/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -317,7 +414,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/前端/js/Promise.md">
+    <entry file="file://$PROJECT_DIR$/visual/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -325,279 +422,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/前端/js/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/babel/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/eslint/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/前端/JS引擎的工作原理/预处理阶段.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/代理/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/打包工具/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/编码/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/网络/HTTP/tcp-ip/IP/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/网络/HTTP/tcp-ip/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/网络/HTTP/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/网络/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/设计模式/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/设计模式/单例模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/设计模式/工厂模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/设计模式/订阅发布模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/身份认证/cookie.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/身份认证/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/身份认证/token.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/网络/tcp.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/ls.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/异常监控.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/排序.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="2" column="75" lean-forward="true" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/数据统计.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/自动发布.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/cms.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/ex.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-895" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/vpn.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/vsftp.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/win7.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/常用的npm模块.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/目录.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="80">
-            <caret line="81" column="23" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AST.md">
+    <entry file="file://$PROJECT_DIR$/machine-learn/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
-            <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/后端/generator.md">
+    <entry file="file://$PROJECT_DIR$/基础/AST/recast.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="8" selection-start-column="2" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础/AST/a.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础/AST/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="94" selection-start-line="3" selection-end-line="3" selection-end-column="94" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础/AST/esprima.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -605,7 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/后端/index.md">
+    <entry file="file://$PROJECT_DIR$/工具/ppt/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -613,7 +485,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/后端/日志.md">
+    <entry file="file://$PROJECT_DIR$/杂类/前端/redux-saga/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/shell/test.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/shell/shell编程/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/shell/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/前端/framework/dvajs/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/前端/framework/redux-saga/index.md" />
+    <entry file="file://$PROJECT_DIR$/杂类/前端/framework/redux/redux中间件.md" />
+    <entry file="file://$PROJECT_DIR$/杂类/前端/framework/umijs/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/miniprogram/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -621,7 +548,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/后端/监控.md">
+    <entry file="file://$PROJECT_DIR$/工具/miniprogram/login.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -629,7 +556,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/后端/知识图谱.md">
+    <entry file="file://$PROJECT_DIR$/工具/miniprogram/pay.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -637,7 +564,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/后端/调试.md">
+    <entry file="file://$PROJECT_DIR$/工具/miniprogram/wx.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -645,7 +572,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/后端/负载均衡.md">
+    <entry file="file://$PROJECT_DIR$/杂类/前端/js/es6/概览.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -653,11 +580,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂类/前端/调试工具/index.md">
+    <entry file="file://$PROJECT_DIR$/杂类/前端/framework/redux/redux中间件/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/前端/js/Promise.md" />
+    <entry file="file://$PROJECT_DIR$/杂类/前端/js/异步.md" />
+    <entry file="file://$PROJECT_DIR$/杂类/前端/js/异步/promise.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/前端/js/异步/async/await.md" />
+    <entry file="file://$PROJECT_DIR$/杂类/前端/js/异步/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="561">
+            <caret line="71" column="24" lean-forward="true" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/前端/js/异步/async-await.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/前端/js/异步/generator-yield.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/微前端/qiankun.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/微前端/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/miniprogram/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/websocket/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/直播/aliyun.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" selection-start-line="13" selection-end-line="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂类/直播/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="666">
+            <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>

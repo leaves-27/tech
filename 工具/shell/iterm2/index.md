@@ -29,5 +29,7 @@
 
 
 
-详情参见：https://www.cr173.com/html/48065_1.html
+详情参见：
+https://www.cr173.com/html/48065_1.html
+http://wulfric.me/2015/08/iterm2/
 

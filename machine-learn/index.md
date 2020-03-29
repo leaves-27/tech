@@ -7,3 +7,6 @@
   6.STDLIB：可用于构建高级统计模型和机器学习库
   7.Limdu：是Node.js的机器学习框架
   8.Brain.js：用于训练神经网络和朴素贝叶斯分类器
+  
+#
+https://blog.csdn.net/anquanniu/article/details/82702400  

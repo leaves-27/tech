@@ -43,7 +43,7 @@
 (4)node:
 (5)vim:
 (6)nginx:
-(7)marikdown:
-(8)debug工具:
+(7)marikdown: 
+(8)debug工具: 
 
 # 框架:

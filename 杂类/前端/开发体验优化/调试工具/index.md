@@ -6,5 +6,7 @@
 3.h5调试工具:  
   vconsole:
   eruda:
+  
+4.spy-debugger  
 
 # 
