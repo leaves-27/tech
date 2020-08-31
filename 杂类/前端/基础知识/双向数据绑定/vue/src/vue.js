@@ -19,7 +19,7 @@ function SelfVue (options) {
 SelfVue.prototype = {
   proxyKeys: function (key) {
     var self = this;
-    Object.defineProperty(this, key, {
+    Object.defineProperty(this, key, { // 给特定对象添加属性或修改属性
       enumerable: false,
       configurable: true,
       get: function proxyGetter() {

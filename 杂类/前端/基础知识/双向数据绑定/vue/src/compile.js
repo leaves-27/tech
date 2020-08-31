@@ -10,7 +10,7 @@ function Compile(el, vm) {
 Compile.prototype = {
   init: function () {
     if(this.el) {
-      this.fragment = this.nodeToFragment(this.el);
+      this.fragment = this.nodeToFragment(this.el);// ge
       this.compileElement(this.fragment);
       this.el.appendChild(this.fragment);
     }else {

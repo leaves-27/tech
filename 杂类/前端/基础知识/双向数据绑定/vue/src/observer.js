@@ -9,7 +9,7 @@ export function defineReactive(data, key, val) {
       enumerable: true,
       configurable: true,
       get: function(){
-        if(是否需要添加订阅者){
+        if(是否需要添加订阅者){// 
           dep.addSub(watcher); // 在这里添加一个订阅者
         }
         return val;
