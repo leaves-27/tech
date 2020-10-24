@@ -31,7 +31,7 @@ http://www.tuicool.com/articles/7FZreu2
 
   reducer的拆分：
 
-# store ：
+# store：
   store来源：使用redux的createStore根据reducer生成的state结构对象生成。
   即store是用来将reducer和action链接起来。
 

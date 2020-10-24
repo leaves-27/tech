@@ -1,4 +1,4 @@
-# XSS概述
+# XSS(Cross Site Scripting,跨站脚本攻击)概述
   XSS的目标是让其他站点的js文件运行在目标站点的上，这主要发生在页面渲染阶段。在该阶段发生了某些非预期的脚本行为，该脚本可能来自用户的输入，也可能来自域外的其他js文件，不一而足。
 
   主要有两点：
@@ -10,7 +10,7 @@
 XSS的发生起源来自于用户输入，因此根据用户输入数据以何种形式、何时触发XSS、是否有后端服务器的参与将其划分为三种类型:
 
 1.DOM XSS:
-2.反射型XSS:后端参与但不存储
+2.反射型XSS:即用户输入带有xss代码的url访问页面资源，而服务端对url参数值没有进行过滤，直接返回给了浏览器，而浏览器端又用其直接进行了渲染。导致用户cookie及其信息被泄露。
 3.存储型XSS:后端参与且存储
 
 ## DOM XSS:
@@ -25,20 +25,6 @@ XSS的发生起源来自于用户输入，因此根据用户输入数据以何�
     localhost/test.html#document.cookie
  
 ## 反射型XSS：
-1.一般形式：
-  (1)形式一：
-    test.html:
-      <?php echo $_GET['name'] ?>
-    攻击者输入:
-      localhost/test.php?name=alert(document.cookie) 
-
-  (2)形式二：
-    test.html:
-      <?php echo $_GET['name'] ?>
-    攻击者输入:
-      localhost/test.php?name=data:text/html;charset=utf-8;base64,PHNjcmlwdD5hbGVydChkb2N1bWVudC5jb29raWUpPC9zY3JpcHQ+
-
-    注：name后面的编码字串解码后是“alert(document.cookie)”。
 
 ## 存储型XSS：
 1.一般形式:
