@@ -14,8 +14,8 @@
   (1)listener:监听端口
   (2)server_name:监听域名
   (3)location{}:是用来为匹配的URI进行配置.
-    <1>root:指定对应uri的资源查找路径
-    <2>index:指定首页index文件的名称
+    <1>root: 指定对应uri的资源查找路径
+    <2>index: 指定首页index文件的名称
 
 # nginx 配置https
   在nginx中配置https需要两步。
@@ -28,7 +28,6 @@
 
     具体操作为：
      ./gencert.sh; 
-
 
   2.配置nginx:
    在server中添加如下配置项：

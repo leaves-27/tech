@@ -4,11 +4,12 @@
 
 2.圣杯布局:
   所有元素套一个包裹元素，然后让包裹元素padding压缩，让左右浮动元素定位左右移出。
+
 3.双飞翼布局:
   自适应元素套一个包裹元素,然后左右元素浮动在其包裹元素上，然后自适应元素设置左右外边距。
 
 
-4.flex布局:display+flex
+4.flex布局:display+flex.
 
 二、BFC详解：
   1.BFC特性及应用:
@@ -22,6 +23,7 @@
     3>overflow除visible之外的值
     4>position的值不为relative和static
     5>display的值为table-cell, table-caption, inline-block中的任何一个。
+
 三、css布局方案
 
 详见：
