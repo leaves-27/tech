@@ -115,5 +115,15 @@
 
 
 
+  1.多人开发一个需求
+先在各自分支开发，然后将各自的分支集成到project-requires_dev分支, 无异常提交project-requires_dev分支进行测试。
+
+project-requires_dev: 需一个小组长来合并代码并保证无冲突，其他组员无合并在该分支提交代码权限，仅可提交合并请求。
+
+2.多需求测试
+project-require1_project-require2_test: 需一个小组长来合并代码并保证无冲突，其他组员无合并在该分支提交代码权限，仅可提交合并请求。
+
+
+
 
 

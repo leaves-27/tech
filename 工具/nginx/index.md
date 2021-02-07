@@ -38,6 +38,12 @@
 
 # nginx配置反向代理
 
+# 查找nginx配置文件的方法
+1.先找到nginx可执行文件的路径: which nginx.
+2.再通过nginx自身的功能找到当前nginx对应的配置文件路径:  假设找到的nginx可执行文件的路径是/usr/sbin/nginx,使用 /usr/sbin/nginx -t命令即可找到其所在配置文件
+
+which nginx
+/usr/sbin/nginx -t
 
 参见：
   http://tengine.taobao.org/book/index.html
