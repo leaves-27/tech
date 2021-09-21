@@ -1,4 +1,5 @@
 import Watcher from './watcher'
+import Deps from './deps';
 
 function Compile(el, vm) {
     this.vm = vm;
@@ -67,9 +68,9 @@ Compile.prototype = {
     var self = this;
     var initText = this.vm[exp];
     this.updateText(node, initText);  // 将初始化的数据初始化到视图中
-    new Watcher(this.vm, exp, function (value) { // 生成订阅器并绑定更新函数
+    Deps[exp].addSub(new Watcher(this.vm, exp, function (value) { // 生成订阅器并绑定更新函数
         self.updateText(node, value);
-    });
+    }));
   },
   compileEvent: function (node, vm, exp, dir) {
       var eventType = dir.split(':')[1];

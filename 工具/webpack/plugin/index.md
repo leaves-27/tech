@@ -18,4 +18,7 @@
 2.extract-text-webpack-plugin:
 3.webpack-dev-middleware:
 4.webpack-bundle-analyzer:
+5.webpack-dashboard: 统计和优化webpack日志的工具，可以以表格形势展示日志信息
+6.webpack-jarvis: 是一款基于webapck-dashboard的webpack性能分析插件，性能分析的结果在浏览器显示，比webpack-bundler-anazlyer更美观清晰
+7.speed-measure-webpack-plugin: 测量webpack构建速度的工具.
 

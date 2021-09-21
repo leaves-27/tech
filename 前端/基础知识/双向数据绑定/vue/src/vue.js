@@ -9,7 +9,7 @@ function SelfVue (options) {
 
   Object.keys(this.data).forEach(function(key) {
     _self.proxyKeys(key);
-  });
+  });// ?这样写的意义在哪里
 
   observe(this.data);
   new Compile(options.el, this);
