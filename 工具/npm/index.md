@@ -32,9 +32,9 @@ js包管理工具
 历史：https://www.w3cschool.cn/article/9538462.html
 缓存：https://juejin.cn/post/7060844948316225572
 配置：https://www.codenong.com/cs107110055/
+常用命令：https://www.jianshu.com/p/2700021be2b8
+nrm: https://blog.csdn.net/qq_36958916/article/details/113653457
 
-# npm 源管理之nrm
-https://blog.csdn.net/qq_36958916/article/details/113653457
 
 
 
