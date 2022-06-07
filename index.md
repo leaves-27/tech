@@ -26,11 +26,16 @@
     (1)eslint配置
     (2)文件及其字段的快速查找
     
-  3.vue/react:
+  3.vue/react/其他:
     (1)VUE:
       <1>vant2: 
       <2>element-ui/iView/Vue Admin/vue-material
     (2)React:
+    (3)可视化: 
+      (1)echarts:
+      (2)highcharts:
+    (4)Typescript:  
+
   4.nodejs/v8:
 
   5.代码调试工具:
@@ -48,6 +53,7 @@
     (2)shell:
     (3)ssh:
     (4)vim:
+    (5)docker:
 
   # 参考文献
   https://www.runoob.com/
