@@ -36,9 +36,14 @@
     (1)router:
     (2)view: vue/react/angluar.
       <1>VUE:
-        1>vant2: 
-        2>element-ui/iView/Vue Admin/vue-material
+        1>移动端：vant2: 
+        2>PC端：element-ui/iView/Vue Admin/vue-material
+        3>小程序：
       <2>React:
+        1>移动端：
+        2>PC端：
+        3>小程序：Remax
+
       <3>可视化: 
         1>echarts:
         2>highcharts:
