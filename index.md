@@ -23,7 +23,11 @@
   1.git/npm/webpack:
     (1)git:
     (2)npm:
+      <1>技术领域的包管理工具：apt-get、yum、
+      <2>前端领域的各包管理工具：
+      <3>
     (3)webpack:
+
   2.VSCode:
     (1)eslint配置
     (2)文件及其字段的快速查找
@@ -54,12 +58,18 @@
   7.操作系统：
     (1)linux:
     (2)shell:
+      <1>wget:
+      <2>scp:
+      <3>ping:
+      
     (3)ssh:
     (4)vim:
     (5)docker:
+    
 
   # 参考文献
-  https://www.runoob.com/
+  基础教程：https://www.runoob.com/
+  linux系统：https://blog.csdn.net/weixin_44685869/article/details/103937206
 
 
 
