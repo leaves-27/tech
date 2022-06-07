@@ -25,13 +25,17 @@
   2.VSCode:
     (1)eslint配置
     (2)文件及其字段的快速查找
+
   3.vue/react:
     (1)VUE:
       <1>vant2: 
       <2>element-ui/iView/Vue Admin/vue-material
     (2)React:
 
-  2.nginx:
+  2.服务器：
+    (1)nginx:
+    (2)apache:
+    (3)iis:
   3.nodejs/v8:
   4.代码调试工具:
 
