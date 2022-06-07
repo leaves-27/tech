@@ -58,10 +58,9 @@
   7.操作系统：
     (1)linux:
     (2)shell:
-      <1>wget:
-      <2>scp:
-      <3>ping:
-      
+      <1>scp:
+      <2>ping:
+
     (3)ssh:
     (4)vim:
     (5)docker:
