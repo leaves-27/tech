@@ -25,12 +25,14 @@
   2.VSCode:
     (1)eslint配置
     (2)文件及其字段的快速查找
+    
   3.vue/react:
     (1)VUE:
       <1>vant2: 
       <2>element-ui/iView/Vue Admin/vue-material
     (2)React:
   4.nodejs/v8:
+
   5.代码调试工具:
     (1)服务端:
     (2)PC端:
@@ -40,6 +42,7 @@
     (1)nginx:
     (2)apache:
     (3)iis:  
+
   7.操作系统：
     (1)linux:
     (2)shell:
