@@ -20,7 +20,10 @@
   3)网络请求和用户操作顺畅度的平衡:
 
   # 前端
-  1.git:
+  1.git/npm/webpack:
+    (1)git:
+    (2)npm:
+    (3)webpack:
   2.VSCode:
     (1)eslint配置
     (2)文件及其字段的快速查找
