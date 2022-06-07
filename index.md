@@ -32,16 +32,20 @@
     (1)eslint配置
     (2)文件及其字段的快速查找
     
-  3.vue/react/其他:
-    (1)VUE:
-      <1>vant2: 
-      <2>element-ui/iView/Vue Admin/vue-material
-    (2)React:
-    (3)可视化: 
-      (1)echarts:
-      (2)highcharts:
-    (4)Typescript:  
+  3.router(路由)/view(视图)/state(数据管理)
+    (1)router:
+    (2)view: vue/react/angluar.
+      <1>VUE:
+        1>vant2: 
+        2>element-ui/iView/Vue Admin/vue-material
+      <2>React:
+      <3>可视化: 
+        1>echarts:
+        2>highcharts:
+    (3)state:
 
+      
+    (4)Typescript:  
   4.nodejs/v8:
 
   5.代码调试工具:
