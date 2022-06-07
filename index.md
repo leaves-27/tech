@@ -20,4 +20,23 @@
   2)跳转异常的提示引导
   3)网络请求和用户操作顺畅度的平衡:
 
+  # 前端
+  1.git:
+  2.VSCode:
+    (1)eslint配置
+    (2)文件及其字段的快速查找
+  3.vue/react:
+    (1)VUE:
+      <1>vant2: 
+      <2>element-ui/iView/Vue Admin/vue-material
+    (2)React:
+
+  2.nginx:
+  3.nodejs/v8:
+  4.代码调试工具:
+
+  # 主流的操作系统及其版本、主流的浏览器及其版本
+
+
+
 
