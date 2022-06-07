@@ -73,6 +73,10 @@
     (3)ssh:
     (4)vim:
     (5)docker:
+  8.软件开发中的命名规范：https://blog.csdn.net/xiaoxunx/article/details/52691527
+    (1)HTML:
+    (2)CSS:
+    (3)JS:   
     
 
   # 参考文献
