@@ -25,7 +25,7 @@
     (1)git: 开发和发布分支管理(项目分支、日常紧急维护分支)。
     (2)npm:
       <1>技术领域的包管理工具：apt-get、yum、brew
-      <2>前端领域的各包管理工具：npm、yarn、pnpm、
+      <2>前端领域的各包管理工具：npm、yarn、pnpm
     (3)webpack:
 
   2.VSCode:
