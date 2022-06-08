@@ -27,7 +27,7 @@
       <1>技术领域的包管理工具：apt-get、yum、brew
       <2>前端领域的各包管理工具：npm、yarn、pnpm
     (3)webpack:
-
+      
   2.VSCode:
     (1)eslint配置
     (2)文件及其字段的快速查找
