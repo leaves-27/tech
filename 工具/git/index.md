@@ -15,13 +15,28 @@
   (2)Mercurial:
   (3)Bazaar:
   (4)Darcs:
-
 # git的优点
 1.直接记录快照，而非差异比较；
 2.近乎所有操作都是在本地；
 3.git保证完整性：所有的数据在存储前都计算校验和，然后通过校验和来引用。
 4.git一般只添加数据。
 
+# .git目录结构
+1.objects/: 存储所有数据内容。
+2.refs/: 存储指向数据的提交对象的指针。
+3.index: 保存暂存区的信息
+4.HEAD: 指向目前被检出的分支
+
+5.config: 项目特有的配置项。
+6.description: 供GitWeb程序使用。
+7.info: 放置哪些不希望被记录在.gitignore文件中的忽略模式。
+8.hooks: 包含客户端或服务端的钩子脚本。
+
+9.FETCH_HEAD:
+10.COMMIT_EDITMSG:
+11.ORIG_HEAD:
+12.logs:
+13.packed-refs:
 # 三种状态
 1.committed：已提交
 2.modified：已修改
@@ -93,7 +108,10 @@
 ### git switch
 ### git checkout 
 ### git merge
-### 
+### git revert\git restore\git reset
+1.git revert: 重新提交已经存在的提交对象到当前分支的提交对象顶端。
+2.git restore: 撤销工作区或暂存区的修改(暂存区修改了但未提交时可撤销，工作区未添加到暂存区时可撤销)。
+3.git reset: 重置当前分支的提交对象到指定提交对象,根据参数又分为要不要同时重置暂存区或工作区。
 
 
 
