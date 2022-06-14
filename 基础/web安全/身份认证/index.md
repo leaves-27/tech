@@ -35,6 +35,7 @@
 
 # 参考资料文献：
 1.HTTPS: https://baijiahao.baidu.com/s?id=1685474345600994715&wfr=spider&for=pc
+2.根证书、服务器证书、用户证书的区别：http://www.manongjc.com/detail/29-bwhgwpgnjippalc.html
 
 
 
