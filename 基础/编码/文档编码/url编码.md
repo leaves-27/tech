@@ -6,7 +6,6 @@
 # 三、目前存在使用的编码现象：
 1.网址路径的编码，用的是utf-8编码。
 2.查询字符串的编码，用的是操作系统的默认编码。
-
 3.表单GET和POST方法生成的url字符串的编码，用的是网页的编码。即：<meta http-equiv="Content-Type" content="text/html;charset=xxxx">
 4.在Ajax调用中，IE总是采用GB2312编码（操作系统的默认编码），而Firefox总是采用utf-8编码.
 

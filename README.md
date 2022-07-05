@@ -3,5 +3,5 @@
 
 # issue
 
-typescript最佳实践
+typescript及其最佳实践
 React Hook最佳实践
