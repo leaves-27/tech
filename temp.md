@@ -108,3 +108,121 @@ redux-saga架构列举
   基础教程：https://www.runoob.com/
   linux系统：https://blog.csdn.net/weixin_44685869/article/details/103937206
  
+
+ # issue
+css居中
+React的生命周期及Hook对应的模拟方法
+移动端的适配
+项目的搭建注意事项
+redux-soga
+
+# 脚手架
+开发服务器: 
+热更新
+打包编译：url-loader、file-loader、css-loader
+目录结构：src、dist、webpack.config
+
+# 常见脚手架
+vue-cli
+create-React-App
+
+## 常见需要项
+vite
+webpack
+webpack-server：live-reload、热重载
+ts
+
+vue
+react
+angluar
+
+three.js
+d3.js
+
+# 前端历史梳理
+  脚手架: 常见脚手架 ------- 寻找相关脚手架 ----- 脚手架的搭建 
+    vue-cli(npm init vue@3)、create-react-app
+
+  打包工具：grunt -------- gulp------ webpack ------ vite
+  模块化标准：amd/cmd/umd/shimup ------ commonjs ---- es6
+  
+  预编译语言：
+    jquery、underscore、CoffeScript、Dart、TypeScript、Flow、VUE、React、Angular
+    Ejs、Handlebars、Jade、JSX、VUE
+  
+  JS语法版本：es5、es6  
+
+  web: html、css、js、BOM、DOM、http、编码
+    语法: 超文本结构的定义、样式的定义
+    解析原理: dom树、css结构树、渲染树、布局、绘制。词法解析、
+    执行原理: 
+
+## 基础
+### html
+### css
+### js
+类型：数字、字符串、布尔、undefined、null、Map、Set
+变量：var、let、const
+表达式：加减乘除(数学表达式)、字符串的拼接(字符串表达式)、或与非（逻辑表达式）、比较表达式、三元表达式、条件、循环（for/in、for/of、do/while、switch/case）
+方法：function
+类：
+模块：
+#### es6:
+#### ts:
+
+### BOM
+  浏览器信息: navigator
+  当前URL: location
+  历史记录：history
+  屏幕：Screen.屏幕、窗口、文档
+  定时器：setTimeout、setInterval、request
+  数据存储：cookie、localStorage、sessionStorage
+
+### DOM
+#### DOM对象的访问、增加、删除、更新
+  访问包含其属性和方法、事件的访问  
+#### 事件传播机制  
+
+
+## 应用层基础
+## 应用的角度
+  架构：MVC、MVVM、单向数据流
+  状态管理：Redux、Mbox、vux、pait
+  路由：vue-router、react-router
+  视图：vue、react、angluar
+
+### Vue
+### React
+### Angular  
+
+## 开发、测试、部署的角度
+  书写工具: Eclipse、sublime、webstorm、vscode
+    错误检查工具(eslint): 定义一套规则，提前发现书写错误。
+    代码格式化工具(prettier)：统一书写风格
+
+  调试工具: 
+    语法、逻辑调试：Firebug调试器、chrome开发者、vscode内嵌调试器、Vconsole、eruda
+    请求：fidder、charles
+  测试工具: mocha、jest、chai
+  部署工具: pm2
+  文档工具: jsdoc
+
+# 了解
+vue-cli
+create-react-app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
