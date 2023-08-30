@@ -23,6 +23,7 @@ umijs是一个以路由为基础，搭配各种插件进行应用扩展开发的
   全局路由：/src/pages/layouts/index.tsx ----- 不同的全局layout
   404路由：/src/pages/404.tsx
   权限路由：/src/wrappers/auth
+  
 # 插件的配置：有三种方式
  1.package.json文件的dependencies字段中。
  2.umirc.ts中暴露的对象的presets和plugins字段中，其值为数组。

@@ -12,8 +12,21 @@
 3.three.js:
   是WebGL的一个库
 
+# WebGL的工作流程
+1.加载顶点
+2.生成顶点着色器
+3.GPU根据顶点着色器进行图元装配。
+4.生成片元着色器。
+5.对装配好的图元进行栅光化。
 
-# 核心概念：
+# three.js的工作流程
+1.创建场景
+2.创建模型
+3.创建材质
+4.生成着色器
+5.渲染
+
+# three.js核心概念：
   1.Cameras（照相机，控制投影方式）
   2.Materials（材质，控制物体的颜色、纹理等）
   3.Objects（物体）
@@ -46,3 +59,4 @@ Extras / Shaders
   https://www.cnblogs.com/yeyunfei/p/7899613.html
   https://www.cnblogs.com/wanbo/p/6754066.html
   http://www.ituring.com.cn/book/1272
+  http://www.webgl3d.cn/pages/6abb06/

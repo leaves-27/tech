@@ -57,7 +57,7 @@ Compile.prototype = {
         var dir = attrName.substring(2);
         if (self.isEventDirective(dir)) {  // 事件指令
           self.compileEvent(node, self.vm, exp, dir);
-        }else{  // v-model 指令
+        }else{  // v-if、v-for、v-bind、v-html、v-model等指令
           self.compileModel(node, self.vm, exp, dir);
         }
         node.removeAttribute(attrName);
@@ -68,8 +68,8 @@ Compile.prototype = {
     var self = this;
     var initText = this.vm[exp];
     this.updateText(node, initText);  // 将初始化的数据初始化到视图中
-    Deps[exp].addSub(new Watcher(this.vm, exp, function (value) { // 生成订阅器并绑定更新函数
-        self.updateText(node, value);
+    Deps[exp].addSub(new Watcher(this.vm, exp, function (value) { // 根据Vue对象实例、观察的数据的key、和回调函数生成观察者并把观察者添加到每个特定目标的观察者列表中，待目标对象发生改变后，其会通知所有观察它的观察者，让其更新它对应的view.
+        self.updateText(node, value)
     }));
   },
   compileEvent: function (node, vm, exp, dir) {

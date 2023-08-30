@@ -19,9 +19,16 @@
 三、指令、组件、过滤器、混入等初始化时间点:
   组件实例化时
 
+# vue
+从操作dom转到MVC(angular)，再转到MVVM(vue)，再转到单向数据流。由于操作dom繁琐，将dom操作封装到框架内部，使开发者可以专注于业务开发。
 
+js: 
+jquery:
+angular:
+Vue: 对于有历史遗留的项目或熟悉以前开发方式的人，比较容易上手。 依赖注入。
+React: 设计思想上比较简单，一切皆JS模块。context
 
-#
+# 引用参考
 https://www.jianshu.com/p/816e524a189f
 https://www.runoob.com/vue2/vue-directory-structure.html
 https://cn.vuejs.org/v2/guide/
