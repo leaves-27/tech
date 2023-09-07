@@ -12,6 +12,13 @@
 3.three.js:
   是WebGL的一个库
 
+# 重要概念
+照相机
+光
+
+物体
+着色器
+
 # WebGL的工作流程
 1.加载顶点
 2.生成顶点着色器
@@ -60,3 +67,5 @@ Extras / Shaders
   https://www.cnblogs.com/wanbo/p/6754066.html
   http://www.ituring.com.cn/book/1272
   http://www.webgl3d.cn/pages/6abb06/
+  https://www.wenjiangs.com/doc/dqsn0hvm
+  http://www.webgl3d.cn/pages/aac9ab/

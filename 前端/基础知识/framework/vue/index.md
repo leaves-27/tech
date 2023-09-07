@@ -22,9 +22,9 @@
 # vue
 从操作dom转到MVC(angular)，再转到MVVM(vue)，再转到单向数据流。由于操作dom繁琐，将dom操作封装到框架内部，使开发者可以专注于业务开发。
 
-js: 
-jquery:
-angular:
+Js: 
+Jquery:
+Angular:
 Vue: 对于有历史遗留的项目或熟悉以前开发方式的人，比较容易上手。 依赖注入。
 React: 设计思想上比较简单，一切皆JS模块。context
 
