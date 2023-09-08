@@ -64,8 +64,7 @@
 基于假设3，对于同一层级的元素，React对少了的元素进行直接删除，对于多了的元素直接进行创建，对于位置变动了的元素则进行移动位置。
 
 
-# 参考文献见：
-https://zhuanlan.zhihu.com/p/103187276
+
 
 # issue:
 React 状态管理的异步方案
@@ -79,8 +78,17 @@ http1.0和2.0的区别：
 js性能优化工具：
 
 for/in、for/of、forEach、map的区别：
-promise、async/await、generator的区别：
+promise、async/await、generator的区别：https://www.ruanyifeng.com/blog/2015/04/generator.html
 Set、Map类型的区别：
+
+
+# 参考文献见：
+https://zh-hans.react.dev/
+https://zh-hans.legacy.reactjs.org/docs/context.html
+https://cn.redux.js.org/introduction/getting-started/
+https://dvajs.com/
+https://zhuanlan.zhihu.com/p/103187276
+
 
 
 
