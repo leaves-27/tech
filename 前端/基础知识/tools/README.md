@@ -3,9 +3,9 @@
     (1)iHosts
     (2)SwitchHosts
 
-  2.sip:取色器
+  2.sip: 取色器
   3.抓包工具:
-    (1)windows上：Wireshark
+    (1)windows上：Wireshark/fiddler
     (2)mac上：Charles。详见：http://www.jianshu.com/p/2dc5ae8ba46a
   4.ESLint/JSHint:代码检查工具
   5.Mocha/Jasmine/QUnit:测试

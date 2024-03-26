@@ -4,7 +4,6 @@
 3.发布/订阅
 4.promise对象
 5.generator
-
 # Promise和async/await及其generator/yield的异同点:
 1.Promise和async/await的异同点
   <1>相同点：都使串行执行变的更优雅;

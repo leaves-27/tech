@@ -17,3 +17,10 @@
 ## NPM/CNPM/YARN
 ## GIT/SVN
 ## VPN
+
+# issue
+1.js的事件循环
+2.react的diff
+3.web安全(xss\cros\沙箱)
+4.this
+5.
