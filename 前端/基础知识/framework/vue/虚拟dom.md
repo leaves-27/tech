@@ -12,11 +12,9 @@
 
 # diff算法
   即对改变前后的两整棵树采用深度优先遍历的方法从根节点开始遍历，直到叶子节点后，然后回溯到前一个节点，再继续对其进行采用深度优先遍历的方法开始遍历，直到叶子节点为止。如此循环，直到比较完成。这其中遍历时的比较又分为三个diff。
-  (1)tree diff: 即同一层级进行比较。若不同，则生成新的节点，再删除旧的节点。
-    同一层级：同一水平位的同一索引。
-    相同节点的定义：其相关属性都相同，但子节点可能不相同。
-  (2)component diff: 不同元素产生不同的树。同类元素产生相同的树。
-  (3)element diff: 
+  (1)tree diff: 由于在DOM的修改中，跨层级移动dom节点的情况比较少，所以diff算法在比较时，只在同级节点之间进行比较，不进行跨层级比较。若出现跨节点移动的这种情况，则diff算法是直接当其做新节点生成的。
+  (2)component diff: 由于相同的组件生成形似的树形结构，不同的组件生成不同的树形结构，所以diff算法在比较两个组件时，若发现不是同一个类，则直接不进入该组件的内部进行比较，而是寻找下一个组件进行比较。
+  (3)element diff: 每个节点副本列表都有前后两个指针，按照头头、尾尾、头尾、尾头的方式进行比较，直到有一方头尾重合结束。即新副本的元素列表的开始索引每次向后移动，旧副本元素的最后一个元素向前移动进行比较。对于同一层级的元素，每个元素有唯一的标识，所以在其比较时，若一个节点在新副本中有，在旧副本中没有，则直接生成；在新副本中没有，在旧副本中有，在进行删除；若位置不一样，就修改位置。
 
 
 详情参见:
@@ -24,4 +22,6 @@
   https://blog.csdn.net/liuliuliuliumin123/article/details/107943687?utm_medium=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~Rate-1-107943687-blog-null.pc_404_mixedpudn&depth_1-utm_source=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~Rate-1-107943687-blog-null.pc_404_mixedpud
 
   https://blog.csdn.net/luoshaoyun/article/details/122928581
+  https://blog.csdn.net/qq_38290251/article/details/125600211
+  
 
