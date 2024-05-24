@@ -9,3 +9,5 @@ https://zhuanlan.zhihu.com/p/111014448
   
 
 详见：https://brew.sh/index_zh-cn.html
+
+注：参考https://blog.csdn.net/plpldog/article/details/109923876
