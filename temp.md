@@ -127,7 +127,7 @@ redux-soga
 目录结构：src、dist、webpack.config
 
 # 脚手架
-# 框架：umi(dva、soga)、express、koa、egg
+# 框架：uniapp、futter、umi(dva、soga)、express、koa、egg、midway、nextjs、
 
 
 
