@@ -126,9 +126,9 @@ redux-soga
 打包编译：url-loader、file-loader、css-loader
 目录结构：src、dist、webpack.config
 
-# 常见脚手架
-vue-cli
-create-react-app
+# 脚手架
+
+
 
 ## 常见需要项
 vite：roullup、esbuild
