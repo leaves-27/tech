@@ -128,13 +128,11 @@ redux-soga
 
 # 常见脚手架
 vue-cli
-create-React-App
+create-react-app
 
 ## 常见需要项
-vite
-webpack
-webpack-server：live-reload、热重载
-ts
+vite：roullup、esbuild
+webpack：webpack-server：live-reload、HMR(热重载)
 
 vue
 react
@@ -145,14 +143,14 @@ d3.js
 
 # 前端历史梳理
   脚手架: 常见脚手架 ------- 寻找相关脚手架 ----- 脚手架的搭建 
-    vue-cli(npm init vue@3)、create-react-app
+    vue-cli、create-react-app
 
-  打包工具：grunt -------- gulp------ webpack ------ vite
   模块化标准：amd/cmd/umd/shimup ------ commonjs ---- es6
+  打包工具：grunt -------- gulp------ webpack ------ vite
   
   预编译语言：
     jquery、underscore、CoffeScript、Dart、TypeScript、Flow、VUE、React、Angular
-    Ejs、Handlebars、Jade、JSX、VUE
+    ejs、Handlebars、Jade
   
   JS语法版本：es5、es6  
 
@@ -165,7 +163,8 @@ d3.js
 ### html
 ### css
 ### js
-类型：数字、字符串、布尔、undefined、null、Map、Set
+基本类型：数字、字符串、布尔、undefined、null、Map、Set
+
 变量：var、let、const
 表达式：加减乘除(数学表达式)、字符串的拼接(字符串表达式)、或与非（逻辑表达式）、比较表达式、三元表达式、条件、循环（for/in、for/of、do/while、switch/case）
 方法：function
@@ -207,6 +206,7 @@ d3.js
   调试工具: 
     语法、逻辑调试：Firebug调试器、chrome开发者、vscode内嵌调试器、Vconsole、eruda
     请求：fidder、charles
+
   测试工具: mocha、jest、chai
   部署工具: pm2
   文档工具: jsdoc
@@ -215,11 +215,6 @@ d3.js
 # 了解
 vue-cli
 create-react-app
-
-<<<<<<< HEAD
-# 
-
-=======
 # 讲述方式
 1.自上而下:
 2.自下而上: 
@@ -249,89 +244,3 @@ create-react-app
   (15)强动画展示: 
   (16)强交互展示: three.js。
   (17)游戏: 
-
-
-
-# 面试题
-1.数组的去重的方法:
-  (1)利用对象的属性不能相同的特点进行去重
-  (2)利用了Set结构不能接收重复数据的特点去重
-  (3)利用数组filter方法循环查看当前元素的索引是否和其在数组中的索引位置相等，相等则返回true,以便该元素被过滤生成新数组。
-  (4)利用for循环查看某个元素在数组中的索引是否和当前索引相等，相等则删除该元素并将该循环下标后退一位。
-  (5)利用两层for循环比较，不重复则将外层当前索引的值添加到新数组，重复则跳过当前索引去重。
-2.数组的排序
-
-3.前端的性能优化与Vue的性能优化
-  (1)合理使用路由懒加载、异步组件
-  (2)不要将所有数据放data中，能用computed的用computed。data中的数据尽量扁平化。
-  (3)能拆分组件的拆分。
-  (4)使用keep-alive缓存组件。
-  (5)for循环是某元素时，记得添加使用key保证唯一性。
-  (6)尽量使用v-show，不要使用v-if
-
-4.原型与原型链
-5.闭包与闭包的应用
-6.常用loader与Pulign
-  (1)html-webpack-plugin
-  (2)clean-webpack-plugin 
-  (3)mini-css-extract-plugin
-  (4)copy-webpack-plugin
-
-7.前端工程化的理解
-8.组件封装的的理解
-9.事件循环机制
-10.事件委托
-11.事件冒泡
-12.深拷贝与浅拷贝的概念及方法
-  (1)深拷贝:
-    <1>JSON.parse(JSON.stringify())：优点是简单，缺点是不能处理函数。
-    <2>第三方库
-    <3>递归
-
-13.路由守卫
-14.动态路由的实现
-15.Vue生命周期钩子顺序
-16.MVVM的优缺点
-17.watch和computed的不同点
-18.vue组件的通信方式
-
-19.前端的数据存储方式
-20.实现跨域的方法
-
-21.图片预加载与懒加载的概念及应用场景
-22.节流与防抖
-
-#
-20 * 20 = 400
-800 * 5 = 4000
-
-# 面试题
-1.乾坤实现微应用的原理：沙箱原理。
-2.diff算法：本质是dom操作开销大，js操作开销小。
-  
-3.单元测试：Jest,view层的测试和逻辑层的测试。
-4.vue3和vue2的区别：解决选项式api将一个逻辑的代码分散在不同的生命周期钩子函数中的问题。
-
-# 
-
-
-
-
-
-
->>>>>>> 7b39977 (1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
