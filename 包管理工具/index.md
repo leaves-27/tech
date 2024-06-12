@@ -1,3 +1,4 @@
 # npm
 # cnpm
+# pnpm
 # yarn
