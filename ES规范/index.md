@@ -1,5 +1,8 @@
 # ES1.0到ES14.0
 
+## es5
+
+
 ## ES6
 1.模块系统(amd、cmd、commonjs、umd)
 2.类
@@ -7,8 +10,8 @@
 6.Generators、箭头函数、扩展运算符、解构赋值、模板字符串
 5.Symbols、Map、Set、Proxy、Reflect
 
-
 # 参考文献
-https://blog.csdn.net/u012347650/article/details/139310308
-
-https://blog.csdn.net/m0_73854403/article/details/135518497
+ES5: https://www.cnblogs.com/liuyinlei/p/6101674.html
+ES6:
+  https://blog.csdn.net/u012347650/article/details/139310308
+  https://blog.csdn.net/m0_73854403/article/details/135518497
