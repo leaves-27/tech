@@ -2,7 +2,6 @@
 
 ## es5
 
-
 ## ES6
 1.模块系统(amd、cmd、commonjs、umd)
 2.类

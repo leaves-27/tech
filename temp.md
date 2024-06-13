@@ -1,13 +1,13 @@
-
 # 前端历史梳理
-  脚手架: 常见脚手架(vue-cli、create-react-app) ----- 脚手架的搭建 
-
+  架构：MVC、MVVM、单向数据流、微前端
+  脚手架: 常见脚手架(vue-cli、create-react-app、angular-cli) ----- 脚手架的搭建 
   模块化标准：amd/cmd/umd/shimup ------ commonjs ---- es6 ---- es7 ----- es8 ---- 
   预编译语言：
-    jquery、underscore、CoffeScript、Dart、TypeScript、Flow、VUE、React、Angular
-    ejs、Handlebars、Jade
+    Jquery、VUE、React、underscore、loash、CoffeScript、Dart、TypeScript、Flow、Angular
+    Ejs、Handlebars、Jade
+
   JS语法版本：es5、es6、es7
-  打包工具：grunt -------- gulp------ webpack ------ vite
+  打包工具：grunt -------- gulp------ webpack ------ vite(rollup和esbuild)
   
   web: html、css、js、BOM、DOM、http、编码
     语法: 超文本结构的定义、样式的定义
@@ -56,17 +56,6 @@ webpack：webpack-server：live-reload、HMR(热重载)
   访问包含其属性和方法、事件的访问  
 
 #### 事件传播机制  
-
-## 应用层基础
-## 应用的角度
-  架构：MVC、MVVM、单向数据流
-  状态管理：Redux、Mbox、Vux、Pinia
-  路由：Vue-router、React-router
-  视图：Vue、React、Angluar
-
-### Vue
-### React
-### Angular  
 
 ## 开发、测试、部署的角度
   书写工具: Eclipse、Sublime、Webstorm、Vscode
