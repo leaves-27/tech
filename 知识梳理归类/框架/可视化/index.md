@@ -10,5 +10,4 @@
   6.Three.js:基于3D的可视化库。--------------------3D
 
   7.light
-  8.cocos：
-  9.
+  8.Cocos Creator：
