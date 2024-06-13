@@ -1,8 +1,8 @@
 # 遍历对象与数组
-for 
-for in
-for of
-forEach
+for: 
+for in:
+for of:
+forEach:
 map
 filter
 
