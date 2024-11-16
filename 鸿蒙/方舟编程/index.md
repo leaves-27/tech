@@ -15,7 +15,8 @@
   (2)ui描述:
   (3)
   
-3.方舟状态管理: 组件状态、应用状态
+3.方舟状态管理: 
+  组件状态、应用状态
   (1)state、prop、link、provide、consume、observe
 
 ## 布局组件
